@@ -1,6 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample application for
+Pinteresting application for
 [*One Month Rails*](http://onemonthrails.com)
 
-by [*Preston Boling*](https://github.com/solorwing)
+by [Preston Boling](htp://www.github.com/solorwing)
